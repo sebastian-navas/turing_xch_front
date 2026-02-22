@@ -37,4 +37,3 @@
 - [ChakraUI](https://chakra-ui.com/)
 - [Vite](https://vitejs.dev/)
 - [React](https://reactjs.org/)
-```diff
